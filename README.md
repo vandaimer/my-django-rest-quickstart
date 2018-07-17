@@ -11,4 +11,10 @@ I'm studying about Djando Framework and this is my [Quickstart](http://www.djang
 - [ ] Viewsets and routers
 - [ ] Schemas and client libraries
 
+
+## To deploy
+- [x] Dockerfile
+- [ ] docker-compose
+
+
 Author: Luiz Filipe
