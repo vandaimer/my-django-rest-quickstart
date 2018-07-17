@@ -14,7 +14,7 @@ I'm studying about Djando Framework and this is my [Quickstart](http://www.djang
 
 ## To deploy
 - [x] Dockerfile
-- [ ] docker-compose
+- [x] docker-compose
 
 
 Author: Luiz Filipe
