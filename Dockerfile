@@ -15,3 +15,5 @@ RUN pip install -r /app/requirements.txt
 COPY . /app
 
 EXPOSE 8000
+
+CMD ["python", "manage.py", "runserver"]
